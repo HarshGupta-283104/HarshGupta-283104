@@ -14,6 +14,32 @@
 
 ---
 
+## 📈 Progress Tracker  
+
+### 🚀 Major Projects  
+- ✅ **N.E.T.R.A** – v1 Dashboard complete, integrated multiple detection models  
+- 🔄 **Krishna AI** – Local desktop prototype in progress (Phase 1: Memory System ✅, Phase 2: Decision Engine 🔄)  
+- 🛠️ **Silence Scribe** – Core facial movement mapping under development  
+- 📊 **Sentiment Analysis Portal** – Speedometer visualization added, student portal integration pending  
+- 🌐 **YF Enterprises Website** – Live on Vercel, migrating to Hostinger  
+
+---
+
+## 📊 GitHub Stats & Activity  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshgupta&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshgupta&theme=radical" alt="GitHub streak" />
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshgupta&theme=redical" alt="GitHub Activity Graph" />
+</p>  
+
+---
+
 ## 🛠️ Tech Stack  
 
 ### ⚡ Languages  
