@@ -49,6 +49,7 @@
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=nextjs&logoColor=white" />
 </p>  
 
 ### 🗄️ Databases & Tools  
