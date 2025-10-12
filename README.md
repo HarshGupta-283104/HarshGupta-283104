@@ -25,18 +25,7 @@
 
 ---
 
-## 📊 GitHub Stats & Activity  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshgupta&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshgupta&theme=radical" alt="GitHub streak" />
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshgupta&theme=redical" alt="GitHub Activity Graph" />
-</p>  
 
 ---
 
